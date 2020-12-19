@@ -10,7 +10,7 @@ import {
 
 import "./sign-up.styles.scss";
 
-class SignUp extends React.Component {
+class SignUp extends Component {
     constructor() {
       super();
   
